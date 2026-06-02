@@ -1,5 +1,4 @@
 # as-if
-Autonomous AI Agent Security Framework
 🛡️ AS-IF v1.0.0
 Autonomous Security Integration Framework
 Maintained by Nick DeMeo (DeMeoLogic)
